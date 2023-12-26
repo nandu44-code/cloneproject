@@ -1,5 +1,5 @@
 import React from 'react'
-
+import './Banner.css'
 function Banner() {
   return (
     <div className='banner'>
@@ -11,7 +11,10 @@ function Banner() {
             </div>
             <h1 className='description'>lorem and every tig in the world ois quite powerrful and we can achieve all those thnga with very fascinating way and it is neithter be created not be destroyed and it can mbaoidsfisd fhwdiho ihdofj  </h1>
         </div>
-      
+        <div className='fade_bottom'>
+            
+        </div>
+
     </div>
   )
 }
